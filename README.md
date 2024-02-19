@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **JavaScript, Python, Node, React**
 
-- ⚡ Fun fact: **Stardust is all we are!!**
+- ⚡ Fun fact: **Stardust is all we are!! ⭐️✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
