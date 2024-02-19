@@ -2,15 +2,15 @@
 <h3 align="center">A Software Development Enthusiast</h3>
 <img align="right" alt="Gundeep" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🔭 I’m currently working on **the deployment of a personal project**
+- 🔭 I’m currently working on **the deployment part of a personal project**
 
 - 🌱 I’m currently learning **NextJS, AWS, React Native**
 
-- 👨‍💻 Visit my personal website at: [https://gssaluja.com](https://gssaluja.com)
+- 👨‍💻 Visit my personal website at [https://gssaluja.com](https://gssaluja.com)
 
 - 💬 Talk to me about **JavaScript, Python, Node, React**
 
-- ⚡ Fun fact **Star dust is all we are!!**
+- ⚡ Fun fact: **Stardust is all we are!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
