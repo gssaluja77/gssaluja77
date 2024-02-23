@@ -8,7 +8,7 @@
 
 - 👨‍💻 Visit my personal website at [https://gssaluja.com](https://gssaluja.com)
 
-- 💬 Talk to me about **JavaScript, Python, Node, React**
+- 💬 Talk to me about **NodeJS, Python, ReactJS, APIs**
 
 - ⚡ Fun fact: **Stardust is all we are!! ⭐️✨**
 
