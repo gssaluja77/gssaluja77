@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 <img align="right" alt="Gundeep" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🔭 I’m currently working on **revamping an outdated CRM solution to incorporate modern features and look with AI capabilities at NebuLogic**
+- 🔭 I’m currently working on **revamping an outdated CRM solution to incorporate modern features and look with AI capabilities at NebuLogic Technologies**
 
 - 🌱 I’m currently learning **Spring Boot and NextJS**
 
